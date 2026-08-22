@@ -1,7 +1,7 @@
 # Sleep Health Risk Prediction
 
 <p align="center">
-  <img src="sleep_health_project_pic.png" width="100%">
+  <img src="sleep_health_ban.png" width="100%">
 </p>
 
 A multiclass machine learning project that predicts **sleep disorder risk** across four classes:
